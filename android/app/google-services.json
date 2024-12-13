@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4351848270",
+    "project_id": "notification-game-eab01",
+    "storage_bucket": "notification-game-eab01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4351848270:android:c6d2b149eb948d1051781f",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQttw8yaM7z8eZ0qE1yHdFBIc-JbfiaK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
